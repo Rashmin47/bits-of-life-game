@@ -14,18 +14,26 @@ export default function BitsOfLife() {
 
     "Prayag Nepal",
     "Sangam Luitel",
-    "Suhana Dala",
+
     "Sanskriti Bajagain",
-    "Ayusha Panta",
+
     "Biswas Bishwakarma",
     "Shreya Katuwal",
     "Yajuna Karmacharya",
-    "Mandip Chaudhary",
+
     "Dikshya Thapa",
     "Swarnim Dahal",
-    "Shrada Adhikari",
-    "Bibek Sharma",
+
     "Oshan Shrestha",
+    "Diyashree Khatri",
+    "Prakriti Bhandari",
+    "Samira Thapa",
+    "Samana Gyawali",
+    "Deepti Lamsal",
+    "Divya Basnet",
+    "Sadhana Mainali",
+    "Joshan Shrestha",
+    "",
   ];
 
   const toneOptions = [
