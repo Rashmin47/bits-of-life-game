@@ -74,7 +74,6 @@ export default function BitsOfLife() {
     "Internet issues",
     "Using AI tools",
     "Hackathon",
-
     "Getting help from ChatGPT 😄",
     "Learning a new language",
     "Attending a workshop",
