@@ -56,7 +56,7 @@ export default function BitsOfLife() {
     "Your first interview",
     "Late night debugging",
     "When the code finally worked",
-    "Fixing a friend&apos;s PC",
+    "Fixing a friend's PC",
     "Creating your portfolio",
     "Launching a mini project",
   ];
@@ -178,7 +178,7 @@ export default function BitsOfLife() {
           alt="CSIT Association of Nepal"
           width={200}
           height={200}
-          className="w-30 h-30 md:w-55 md:h-55 object-contain"
+          className="w-30 h-30 md:w-50 md:h-50 object-contain"
           priority
         />
       </motion.div>
