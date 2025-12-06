@@ -23,6 +23,9 @@ export default function BitsOfLife() {
     "Mandip Chaudhary",
     "Dikshya Thapa",
     "Swarnim Dahal",
+    "Shrada Adhikari",
+    "Bibek Sharma",
+    "Oshan Shrestha",
   ];
 
   const toneOptions = [
