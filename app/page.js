@@ -21,6 +21,7 @@ export default function BitsOfLife() {
     "Yajuna Karmacharya",
     "Mandip Chaudhary",
     "Dikshya Thapa",
+    "Swarnim Dahal",
   ];
 
   const toneOptions = [
