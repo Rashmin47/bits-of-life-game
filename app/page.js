@@ -67,7 +67,6 @@ export default function BitsOfLife() {
   ];
 
   const themeOptions = [
-    "Coding assignments",
     "Exams",
     "Tech fails",
     "First group project",
@@ -75,11 +74,11 @@ export default function BitsOfLife() {
     "Internet issues",
     "Using AI tools",
     "Hackathon",
-    "Device/gadget struggle",
+
     "Getting help from ChatGPT 😄",
     "Learning a new language",
     "Attending a workshop",
-    "Your first interview",
+    "Your interviews",
     "Late night debugging",
     "When the code finally worked",
     "Fixing a friend's PC",
@@ -94,7 +93,7 @@ export default function BitsOfLife() {
     "Online class struggles",
     "Overcoming procrastination",
     "Creative hacks or shortcuts",
-    "Tech-inspired disasters at home",
+    "Tech disasters at home",
   ];
 
   const [selectedName, setSelectedName] = useState("");
