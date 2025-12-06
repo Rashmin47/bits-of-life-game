@@ -11,6 +11,7 @@ export default function BitsOfLife() {
     "Ankit Rimal",
     "Pamisha  Bhattarai",
     "Sailendra Shrestha",
+
     "Prayag Nepal",
     "Sangam Luitel",
     "Suhana Dala",
