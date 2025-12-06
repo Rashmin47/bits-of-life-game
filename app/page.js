@@ -6,21 +6,21 @@ import Image from "next/image";
 
 export default function BitsOfLife() {
   const participants = [
-    "Aarav Sharma",
-    "Priya Thapa",
-    "Sanjay Gurung",
-    "Nikita Rai",
-    "Rohan Adhikari",
-    "Anjali Karki",
-    "Bipin Shrestha",
-    "Kritika Tamang",
-    "Manish Poudel",
-    "Sapana Magar",
-    "Prakash Balayar",
-    "Shreya Gautam",
-    "Dinesh Basnet",
-    "Pooja Chhetri",
-    "Rahul Lama",
+    "Priyanka Luitel",
+    "Pratikshya Ale Magar",
+    "Ankit Rimal",
+    "Pamisha  Bhattarai",
+    "Sailendra Shrestha",
+    "Prayag Nepal",
+    "Sangam Luitel",
+    "Suhana Dala",
+    "Sanskriti Bajagain",
+    "Ayusha Panta",
+    "Biswas Bishwakarma",
+    "Shreya Katuwal",
+    "Yajuna Karmacharya",
+    "Mandip Chaudhary",
+    "Dikshya Thapa",
   ];
 
   const toneOptions = [
@@ -33,11 +33,24 @@ export default function BitsOfLife() {
     "Cringe",
     "Wholesome",
     "Confusing",
-    "Heartwarming",
+
     "Shocking",
     "Embarrassing",
     "Emotional",
     "Dramatic",
+    "Exciting",
+    "Surprising",
+
+    "Nostalgic",
+    "Stressful",
+    "Satisfying",
+
+    "Hilarious",
+
+    "Messy",
+    "Overwhelming",
+    "Adventurous",
+    "Awkwardly funny",
   ];
 
   const themeOptions = [
@@ -59,6 +72,16 @@ export default function BitsOfLife() {
     "Fixing a friend's PC",
     "Creating your portfolio",
     "Launching a mini project",
+    "Accidental deletions",
+    "Collaboration chaos",
+    "First bug ever",
+    "Debugging disasters",
+    "Hardware experiments",
+    "Trying a new framework/library",
+    "Online class struggles",
+    "Overcoming procrastination",
+    "Creative hacks or shortcuts",
+    "Tech-inspired disasters at home",
   ];
 
   const [selectedName, setSelectedName] = useState("");
@@ -388,7 +411,7 @@ export default function BitsOfLife() {
           className="bg-white/90 backdrop-blur-lg rounded-2xl p-6 shadow-xl"
         >
           <h3 className="text-xl font-bold text-purple-600 mb-3">
-            💡 Example Prompt:
+            💡 Example:
           </h3>
           <p className="text-gray-700">
             <strong>Tone:</strong> Funny
